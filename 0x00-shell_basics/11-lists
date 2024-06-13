@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -la "$PWD" ls -la .. ls -la /boot/
+ls -la /alx-system_engineering-devop/ /alx-system_engineering-devops0x00-shell_basics/ /boot/
