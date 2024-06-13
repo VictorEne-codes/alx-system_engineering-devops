@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -ap1Sm
+ls -ap1m
