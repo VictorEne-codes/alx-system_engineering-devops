@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
 #list files in current directory
 for i in *; do
-	echo $i
+	echo "$i" | cut -d "-" -f2-
 done
