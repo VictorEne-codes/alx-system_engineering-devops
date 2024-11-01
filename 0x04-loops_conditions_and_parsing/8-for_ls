@@ -1,0 +1,5 @@
+#!/usr/bin/env bash
+#list files in current directory
+for i in *; do
+	echo $i
+done
