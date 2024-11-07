@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+#script yk display tcp and udp ports
+
+netstat -lp
