@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+#create a privarte RSA keey
+
+ssh-keygen -b 4096 -f school -N betty
